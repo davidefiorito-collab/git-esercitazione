@@ -1,1 +1,2 @@
 "Esercitazione" 
+"Nuova funzionalit…" 
